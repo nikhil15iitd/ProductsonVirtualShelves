@@ -1,3 +1,5 @@
+Solution ranked 2nd in WalmartLabs ML Competition 2016
+
 The following python libraries will need to be installed before the code can be run.
 
 NLTK(Natural Language Toolkit) : http://www.nltk.org/install.html
